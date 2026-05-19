@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (add your own CSVs locally)
+data/*.csv
+
+# Output images
+*.png
+*.html
+
+# OS
+.DS_Store
+Thumbs.db
