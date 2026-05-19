@@ -102,4 +102,4 @@ python src/analysis.py
 
 ## 📄 License
 
-MIT © 2024
+MIT © 2026
