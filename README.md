@@ -39,7 +39,7 @@ covid19-analysis/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/covid19-analysis.git
+git clone https://github.com/<techindro>/covid19-analysis.git
 cd covid19-analysis
 ```
 
