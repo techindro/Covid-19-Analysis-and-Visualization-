@@ -1,6 +1,5 @@
 # 🦠 Covid-19-Analysis-and-Visualization-
 
-
 Interactive analysis and visualization of global COVID-19 data using **Plotly Express**, Pandas, Matplotlib, and WordCloud.
 
 ---
