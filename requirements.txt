@@ -1,0 +1,10 @@
+pandas
+streamlit
+requests
+plotly
+scikit-learn
+statsmodels
+jupyter
+prophet
+openai
+pytest
